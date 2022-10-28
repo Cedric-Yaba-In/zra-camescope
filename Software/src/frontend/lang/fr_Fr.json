@@ -1,0 +1,163 @@
+{
+    "menu_bar": {
+        "file": {
+                    "name": "fichier",
+                    "subsections": {
+                            "new": "nouveau",
+                            "open": "ouvrir",
+                            "save": "enregistrer",
+                            "save_as": "enregistrer comme",
+                            "close": "quitter"
+                    }
+                },
+        "edit": {
+            "name": "edition",
+            "subsections": {
+                    "undo": "annuler",
+                    "redo": "retablir"
+            }
+        },
+        "view": {
+            "name": "affichage",
+            "subsections": {
+                    "tools_bar": "barre d'outils",
+                    "inspector": "inpecteur"
+            }
+        },
+        "setup": {
+            "name": "reglages",
+            "subsections": {
+            }
+        },
+        "capture": {
+            "name": "capturer",
+            "subsections": {
+                    "picture": "photo",
+                    "video": "video"
+            }
+        },
+        "process": {
+            "name": "traitement",
+            "subsections": {
+                    "filters": "filtres",
+                    "noise": "bruit",
+                    "color": "couleur"
+            }
+        },
+        "tools":{
+            "name": "outils",
+            "subsections": {
+                "rect": "rectangle",
+                "ellipse": "ellipse",
+                "circle": "cercle",
+                "line": "ligne",
+                "eraser": "gomme",
+                "pencil": "crayon"
+            }
+        },
+        "layer":{
+            "name": "calque",
+            "subsections": {
+                "new": "nouveau"
+            }
+        },
+        "measurements": {
+            "name": "mesures",
+            "subsections": {}
+        },
+        "options": {
+            "name": "options",
+            "subsections": {}
+        },
+        "help": {
+            "name": "aide",
+            "subsections": {
+                "help": "aide",
+                "about": "a propos"
+            }
+        }
+    },
+    "tools_bar": {
+        "project": "projet",
+        "edit": "edition",
+        "actions": "actions",
+        "capture": "capture",
+        "filters": "filtres",
+        "count": "Compter",
+        "colorization": "colorisation"
+    },
+    "tools": {
+        "select": {
+            "name": "selection",
+            "subsections":{
+                "rectangle": "rectangle",
+                "cursor": "curseur"
+            }
+        },
+        "draw": {
+            "name": "dessin",
+            "subsections": {
+                "rectangle": "rectangle",
+                "ellips": "ellipse",
+                "line": "ligne",
+                "pencil": "crayon",
+                "eraser": "gomme",
+                "size": "taille"
+            }
+        },
+        "text": {
+            "name": "text",
+            "subsections": {
+                "add": "ajouter",
+                "size": "taille",
+                "bold": "gras",
+                "italic": "italic",
+                "underline": "souligné",
+                "strikethrough": "barré",
+                "superscript": "exposant",
+                "subscript": "indice",
+                "align_left": "aligné à gauche",
+                "align_center": "aligné au centre",
+                "align_right": "aligné à droite"
+            }
+        },
+        "zoom": {
+            "name": "zoom",
+            "subsections": {
+                "zoom": "zoom",
+                "to_fit": "zoom sur la selection",
+                "in": "zoom avant",
+                "out": "zoom arrière",
+                "expand": "zoom sur tous les elements",
+                "collapse": "zoom sur localisé"
+            }
+        },
+        "color": {
+            "name": "couleur",
+            "subsections": {
+                "R": "rouge",
+                "G": "vert",
+                "B": "bleu"
+            }
+        }
+    },
+    "inspector":{
+        "name": "inspecteur",
+        "properties":
+        {
+            "name": "propriétés",
+            "subsections": {
+                "opacity": "opacité",
+                "font_size": "taille de la police"
+            }
+        },
+        "layers":{
+            "name": "calques",
+            "subsections":{
+                "delete": "supprimer",
+                "view": "afficher",
+                "hide": "masquer"
+            }
+        }
+    }
+}

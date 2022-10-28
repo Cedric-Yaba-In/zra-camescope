@@ -1,0 +1,163 @@
+{
+    "menu_bar": {
+        "file": {
+                    "name": "file",
+                    "subsections": {
+                            "new": "new",
+                            "open": "open",
+                            "save": "save",
+                            "save_as": "save as",
+                            "close": "close"
+                    }
+                },
+        "edit": {
+            "name": "edition",
+            "subsections": {
+                    "undo": "undo",
+                    "redo": "redo"
+            }
+        },
+        "view": {
+            "name": "view",
+            "subsections": {
+                    "tools_bar": "tools bar",
+                    "inspector": "inpector"
+            }
+        },
+        "setup": {
+            "name": "setup",
+            "subsections": {
+            }
+        },
+        "capture": {
+            "name": "capture",
+            "subsections": {
+                    "picture": "picture",
+                    "video": "video"
+            }
+        },
+        "process": {
+            "name": "process",
+            "subsections": {
+                    "filters": "filters",
+                    "noise": "noise",
+                    "color": "color"
+            }
+        },
+        "tools":{
+            "name": "tools",
+            "subsections": {
+                "rect": "rectangle",
+                "ellipse": "ellipse",
+                "circle": "circle",
+                "line": "line",
+                "eraser": "eraser",
+                "pencil": "pencil"
+            }
+        },
+        "layer":{
+            "name": "layer",
+            "subsections": {
+                "new": "new"
+            }
+        },
+        "measurements": {
+            "name": "measurements",
+            "subsections": {}
+        },
+        "options": {
+            "name": "options",
+            "subsections": {}
+        },
+        "help": {
+            "name": "help",
+            "subsections": {
+                "help": "help",
+                "about": "about"
+            }
+        }
+    },
+    "tools_bar": {
+        "project": "project",
+        "edit": "edition",
+        "actions": "actions",
+        "capture": "capture",
+        "filters": "filters",
+        "count": "Count",
+        "colorization": "colorization"
+    },
+    "tools": {
+        "select": {
+            "name": "select",
+            "subsections":{
+                "rectangle": "rectangle",
+                "cursor": "cursor"
+            }
+        },
+        "draw": {
+            "name": "draw",
+            "subsections": {
+                "rectangle": "rectangle",
+                "ellips": "ellips",
+                "line": "line",
+                "pencil": "pencil",
+                "eraser": "eraser",
+                "size": "size"
+            }
+        },
+        "text": {
+            "name": "text",
+            "subsections": {
+                "add": "add",
+                "size": "size",
+                "bold": "bold",
+                "italic": "italic",
+                "underline": "underline",
+                "strikethrough": "strikethrough",
+                "superscript": "superscript",
+                "subscript": "subscript",
+                "align_left": "align left",
+                "align_center": "align center",
+                "align_right": "align right"
+            }
+        },
+        "zoom": {
+            "name": "zoom",
+            "subsections": {
+                "zoom": "zoom",
+                "to_fit": "zoom to fit",
+                "in": "zoom in",
+                "out": "zoom out",
+                "expand": "expand zoom ",
+                "collapse": "collapse zoom"
+            }
+        },
+        "color": {
+            "name": "color",
+            "subsections": {
+                "R": "red",
+                "G": "green",
+                "B": "blue"
+            }
+        }
+    },
+    "inspector":{
+        "name": "inspector",
+        "properties":
+        {
+            "name": "proprerties",
+            "subsections": {
+                "opacity": "opacity",
+                "font_size": "font size"
+            }
+        },
+        "layers":{
+            "name": "layers",
+            "subsections":{
+                "delete": "delete",
+                "view": "display",
+                "hide": "hide"
+            }
+        }
+    }
+}
